@@ -1,0 +1,35 @@
+*{
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-items: center;
+
+}
+.wrapper{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-image: url(https://www.ynet.co.il/PicServer5/2017/10/18/8094880/main-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+
+}
+#head
+{
+    color: white;
+   text-align: center;
+   text-decoration: underline;
+
+}
+#head:hover
+{
+    color: red;
+}
+#mac, #cake, #lasagna
+{
+    color: white;
+    text-decoration: none;
+}
+#mac:hover, #cake:hover, #lasagna:hover
+{
+    color:red;
+}
